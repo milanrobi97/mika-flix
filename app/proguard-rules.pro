@@ -1,0 +1,4 @@
+-keep class com.mika.mfilmovi.mikaflix.** { *; }
+-keep class com.google.android.exoplayer2.** { *; }
+-dontwarn okhttp3.**
+-dontwarn okio.**
