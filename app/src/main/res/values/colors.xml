@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mika Flix</string>
+    
+    <!-- Colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="red">#e50914</color>
+    <color name="dark_bg">#1a1a1a</color>
+    <color name="card_bg">#222222</color>
+    <color name="gold">#ffd700</color>
+</resources>
